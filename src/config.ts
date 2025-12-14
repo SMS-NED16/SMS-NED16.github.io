@@ -109,7 +109,7 @@ export const siteConfig = {
     {
       company: "Afiniti Inc.",
       title: "Lead Software Engineer - AI Engineering",
-      dateRange: "Jan 2022 - Present",
+      dateRange: "Jan 2025 - Present",
       bullets: [
         "Lead AI Engineer for AiRo, Afiniti’s next-generation self-service, no-code AutoML platform powering enterprise-scale contact-center pairing using Afiniti's proprietary CX optimization algorithms.",
         "Partner with product, research, and AI production teams to design, implement, test, and productionize machine-learning pipelines to automate Afiniti’s bespoke modeling workflows",
@@ -135,7 +135,7 @@ export const siteConfig = {
     {
       company: "AI Account Lead - Applied AI",
       title: "Afiniti Software Solutions Pvt. Limited",
-      dateRange: "February 2022 - September 2022",
+      dateRange: "Feb 2022 - August 2022",
       bullets: [
         "AI Lead for Afiniti's combined Sky UK Applied AI team, overseeing 6 data scientists.",
         "Led end-to-end data analysis, telephony assessment, feature selection, & modeling for 7 AI designs, including a new deployment for Sky's Broadband retention estate.",
@@ -147,7 +147,7 @@ export const siteConfig = {
     {
       company: "Data Scientist II - AI Production",
       title: "Afiniti Software Solutions Pvt. Limited",
-      dateRange: "Jun 2020 - Dec 2021",
+      dateRange: "Oct 2021 - Jan 2022",
       bullets: [
         "Gain owner for Afiniti's Sky UK Red AI team.",
         "Maintaining performance for 8 models across downgrades, DTV retention, and customer care estates.",
@@ -160,7 +160,7 @@ export const siteConfig = {
     {
       company: "Data Scientist I - AI Production",
       title: "Afiniti Software Solutions Pvt. Limited",
-      dateRange: "Jun 2020 - Dec 2021",
+      dateRange: "Jun 2020 - Sep 2021",
       bullets: [
         "Building statistical models for optimising agent-caller pairing in contact centers for two of the UK's largest telecos.",
         "Primary Afiniti Red AI team resource for models which delivered 14% improvement in cable customer care revenue, and £200k monthly incremental revenue through customer lifetime value loss minimised.",
