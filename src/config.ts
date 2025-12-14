@@ -9,6 +9,7 @@ export const siteConfig = {
     github: "https://github.com/SMS-NED16",
     scholar: "https://scholar.google.com/citations?user=o4oci7QAAAAJ&hl=en"
   },
+  resume: "https://drive.google.com/file/d/1ONrdEyDKQBKwyUBT2k-LxPbPRFPctXAO/view?usp=sharing",
   aboutMe: "Describe work at Afiniti. Describe work at ",
   skills: ["Python", "R", "SQL", "TensorFlow"],
   research: [
