@@ -1,6 +1,6 @@
 export const siteConfig = {
   name: "Saad M. Siddiqui",
-  title: "Lead Software Engineer - AI Engineering @ Afiniti Inc. / MS-CS Machine Learning @ GATech",
+  title: "Lead Software Engineer - AI Engineering @ Afiniti Inc. / MS-CS (Machine Learning) @ GATech",
   description: "Portfolio website of Saad M. Siddiqui",
   accentColor: "#1d4ed8",
   social: {
